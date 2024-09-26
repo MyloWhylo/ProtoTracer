@@ -2,7 +2,7 @@
 
 #include <Arduino.h>
 #include <Wire.h>
-#include <Custom_APDS9960.h>
+#include "../../../Custom_APDS9960/Custom_APDS9960.hpp"
 #include "../../Utils/Filter/MinFilter.h"
 #include "../../Utils/Time/TimeStep.h"
 
