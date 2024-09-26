@@ -1,6 +1,6 @@
 #include "APDS9960.h"
 
-Adafruit_APDS9960 APDS9960::apds;
+Custom_APDS9960 APDS9960::apds;
 uint16_t APDS9960::proximity;
 uint16_t APDS9960::threshold;
 
